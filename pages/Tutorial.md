@@ -6,4 +6,4 @@
 - Kirjoita uuden sivun nimi ja editoi tai hae olemassa olevaa sivua
 - Linkkaa toiseen sivuun kahdella hakasivulla [[esimerkkilinkki]]
 - Kun oot kirjoittanut sivun valmiksi, mene takaisin GitBashiin ja kirjoita `git pull` ja sit tallenna muutokset kirjoittamalla `git push`
--
+- Jatka seuraavan sivun kirjoittamista
