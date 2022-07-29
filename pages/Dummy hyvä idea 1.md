@@ -1,0 +1,5 @@
+- Viite: [[Dummy viite]]
+- Omin sanoin. Kuvata mistä kyse. Tämä viitta myös seuraavaan notesiin [[Dummy hyvä idea 2]]
+- Atominen note: The principle of atomicity: The term was coined by Christian Tietze. It means that **each note should contain one idea and one idea only**. This makes it possible to link ideas with a laser focus. The principle of autonomy: Each note should be autonomous, meaning it should be self-contained and comprehensible on its own.
+- https://www.youtube.com/watch?v=VlhcNR7Qrno
+-
